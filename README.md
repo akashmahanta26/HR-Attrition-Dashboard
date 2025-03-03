@@ -5,15 +5,15 @@
 This project aims to analyze employee attrition trends at XYZ Corporation using HR analytics and data visualization. High attrition rates pose significant financial and operational challenges, impacting productivity, morale, and company culture. Through data-driven storytelling, we uncover key drivers of attrition, diagnose root causes, and propose actionable strategies to improve employee retention.
 
 **Project Scope**
-**Data Preparation**: Cleaning, handling missing values, and addressing inconsistencies in HR data.
+  **1. Data Preparation**: Cleaning, handling missing values, and addressing inconsistencies in HR data.
 
-**Exploratory Data Analysis (EDA)**: Identifying trends and correlations between HR metrics and attrition.
+  **2. Exploratory Data Analysis (EDA)**: Identifying trends and correlations between HR metrics and attrition.
 
-**Data Storytelling & Insights**: Using visualizations to highlight factors influencing employee turnover.
+  **3. Data Storytelling & Insights**: Using visualizations to highlight factors influencing employee turnover.
 
-**Strategic Recommendations**: Proposing targeted solutions to reduce attrition and improve workforce stability.
+  **4. Strategic Recommendations**: Proposing targeted solutions to reduce attrition and improve workforce stability.
 
-**Interactive Dashboard**: Built with Plotly Dash to visualize key HR metrics dynamically.
+  **5. Interactive Dashboard**: Built with Plotly Dash to visualize key HR metrics dynamically.
 
 **Key Insights**
 Examines how factors like burnout risk, engagement scores, job satisfaction, commute time, and promotion delays contribute to attrition.
